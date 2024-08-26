@@ -5,4 +5,4 @@ print(age)
 age = age+2
 print(age)
 is_student = 24<age
-print(is_student))
+print(is_student)
